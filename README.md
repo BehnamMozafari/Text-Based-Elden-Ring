@@ -6,7 +6,7 @@ Text based adventure game inspired by elden ring
 
 1. Ensure you have Java installed on your machine by running ```bash java -version```.
 2. Clone or download this repository.
-3. Navigate to the 'src' directory.
+3. Navigate to the `src` directory.
 4. Compile the `Application.java` class.
 5. Run the `Application` program to start the game.
 
