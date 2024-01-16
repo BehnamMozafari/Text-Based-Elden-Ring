@@ -24,9 +24,7 @@ The game involves many features, including multiple maps, environments, enemies,
 
 ## Credit
 
-Behnam Mozafari
-Joshua Ryan
-Gunnraj Dhaliwal
+Made by: Behnam Mozafari, Joshua Ryan, Gunnraj Dhaliwal
 
 ## License
 
